@@ -15,11 +15,11 @@ Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, ba
 ## 📂 Featured Projects
 
 ### Project 1: [APB2TAL]
-![Project 1](https://via.placeholder.com/400x200.png?text=Project+1+Image)
+
 APB2TAL is a web cloud application designed for comprehensive file analysis using the PI Virus Total API. It allows users to upload files and receive detailed reports on potential security threats, enhancing cybersecurity measures for personal and professional use.
 
 ### Project 2: [SNAKETHON]
-![Project 2](https://via.placeholder.com/400x200.png?text=Project+2+Image)
+
 Snakethon is a Python-based game that brings the classic Snake game to modern platforms. Built with engaging graphics and smooth gameplay, it serves as a fun project demonstrating my skills in Python game development.
 
 ## 🤝 Why Work with Me?
