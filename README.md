@@ -12,9 +12,8 @@ Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, ba
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
 - ![Django](https://img.icons8.com/color/48/000000/django.png) **Django**
-- ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL**
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL**
 - ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png) **SQLite**
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 - ![Cybersecurity](https://img.icons8.com/ios/50/000000/security-checked.png) **Cybersecurity**
 
 ## 📂 Featured Projects
@@ -40,21 +39,6 @@ Brief description of the project. What it does, technologies used, and any speci
 ## 📫 Contact
 
 - **Email**: albert.xicola@example.com
-- ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/your-profile)
-- ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) [Twitter](https://twitter.com/your_username)
+- ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/albert-xicola-s%C3%A1nchez-0878b7262/)
 
-## 📝 How to Contribute
 
-Contributions are welcome! If you have ideas or improvements, feel free to fork the repository and submit a pull request. You can also open an issue to discuss any new ideas.
-
-1. Fork the project.
-2. Create a new branch with your feature (`git checkout -b feature/new-feature`).
-3. Make the necessary changes and commit them (`git commit -am 'Add new feature'`).
-4. Push the branch (`git push origin feature/new-feature`).
-5. Open a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-![License](https://img.icons8.com/ios-filled/50/000000/license.png)
