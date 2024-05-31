@@ -1,6 +1,5 @@
 # Hi 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Repository&bgcolor=282c34&color=61dafb)
 
 Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, backend development, and cybersecurity. I love building web applications using various technologies. Here you can find my projects and contributions.
 
