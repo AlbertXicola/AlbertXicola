@@ -9,7 +9,7 @@ Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, ba
 | | | | |
 | --- | --- | --- | --- |
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML** | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS** | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** | ![React](https://img.icons8.com/color/48/000000/react-native.png) **React** |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** | ![Django](https://img.icons8.com/color/48/000000/django.png) **Django** | ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL** | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL** |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** | ![Django](https://img.icons8.com/color/48/000000/django.png) **Django** | ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL** | 
 | ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png) **SQLite** | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB** | ![Cybersecurity](https://img.icons8.com/ios/50/000000/security-checked.png) **Cybersecurity** | |
 
 ## 📂 Featured Projects
