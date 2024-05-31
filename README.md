@@ -1,6 +1,6 @@
-# hi 👋
+# Hi 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Repository)
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Repository&bgcolor=282c34&color=61dafb)
 
 Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, backend development, and cybersecurity. I love building web applications using various technologies. Here you can find my projects and contributions.
 
@@ -9,22 +9,18 @@ Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, ba
 | | | | |
 | --- | --- | --- | --- |
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML** | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS** | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** | ![React](https://img.icons8.com/color/48/000000/react-native.png) **React** |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** | ![Django](https://img.icons8.com/color/48/000000/django.png) **Django** | ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL** | 
-| ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png) **SQLite** | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB** | ![Cybersecurity](https://img.icons8.com/ios/50/000000/security-checked.png) **Cybersecurity** | |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** | ![Django](https://img.icons8.com/color/48/000000/django.png) **Django** | ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL** | ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png) **SQLite** |
+| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB** | ![Cybersecurity](https://img.icons8.com/ios/50/000000/security-checked.png) **Cybersecurity** |
 
 ## 📂 Featured Projects
 
-### Project 1: [Project Name]
+### Project 1: [APB2TAL]
 ![Project 1](https://via.placeholder.com/400x200.png?text=Project+1+Image)
-Brief description of the project. What it does, technologies used, and any special features.
+APB2TAL is a web cloud application designed for comprehensive file analysis using the PI Virus Total API. It allows users to upload files and receive detailed reports on potential security threats, enhancing cybersecurity measures for personal and professional use.
 
-### Project 2: [Project Name]
+### Project 2: [SNAKETHON]
 ![Project 2](https://via.placeholder.com/400x200.png?text=Project+2+Image)
-Brief description of the project. What it does, technologies used, and any special features.
-
-### Project 3: [Project Name]
-![Project 3](https://via.placeholder.com/400x200.png?text=Project+3+Image)
-Brief description of the project. What it does, technologies used, and any special features.
+Snakethon is a Python-based game that brings the classic Snake game to modern platforms. Built with engaging graphics and smooth gameplay, it serves as a fun project demonstrating my skills in Python game development.
 
 ## 🤝 Why Work with Me?
 
@@ -36,4 +32,3 @@ Brief description of the project. What it does, technologies used, and any speci
 
 - **Email**: albert.xicola@example.com
 - ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/albert-xicola-s%C3%A1nchez-0878b7262/)
-- ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) [Twitter](https://twitter.com/your_username)
