@@ -30,5 +30,5 @@ Snakethon is a Python-based game that brings the classic Snake game to modern pl
 
 ## 📫 Contact
 
-- **Email**: albert.xicola@example.com
+- **Email**: future
 - ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/albert-xicola-s%C3%A1nchez-0878b7262/)
