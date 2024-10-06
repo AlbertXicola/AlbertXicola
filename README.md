@@ -5,10 +5,25 @@ Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, ba
 
 ## 🛠️ Technologies and Tools
 
-| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML** | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS** | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** | ![React](https://img.icons8.com/color/48/000000/react-native.png) **React** |
-| --- | --- | --- | --- |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** | ![Django](https://img.icons8.com/color/48/000000/django.png) **Django** | ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL** | ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png) **SQLite** |
-| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB** | ![Cybersecurity](https://img.icons8.com/ios/50/000000/security-checked.png) **Ciberseguridad** |  |  |
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="30"/> <small>**HTML**</small> |
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="30"/> <small>**CSS**</small> |
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="30"/> <small>**JavaScript**</small> |
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="30"/> <small>**React**</small>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/> <small>**Python**</small> |
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="30"/> <small>**Django**</small> |
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" height="30"/> <small>**MySQL**</small> |
+  <img src="https://img.icons8.com/ios-filled/50/000000/sqlite.png" alt="SQLite" height="30"/> <small>**SQLite**</small>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="30"/> <small>**MongoDB**</small> |
+  <img src="https://img.icons8.com/ios/50/000000/security-checked.png" alt="Cybersecurity" height="30"/> <small>**Ciberseguridad**</small>
+</p>
+
 
 ## 📂 Featured Projects
 
