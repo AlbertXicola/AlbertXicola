@@ -6,23 +6,24 @@ Hi! I'm **Albert Xicola Sanchez**. I'm passionate about frontend development, ba
 ## 🛠️ Technologies and Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="30"/> <small>**HTML**</small> |
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="30"/> <small>**CSS**</small> |
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="30"/> <small>**JavaScript**</small> |
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="30"/> <small>**React**</small>
+  <span style="background-color:#f06529; color:white; padding:5px 10px; border-radius:5px;">HTML</span> 
+  <span style="background-color:#2965f1; color:white; padding:5px 10px; border-radius:5px;">CSS</span> 
+  <span style="background-color:#f7df1e; color:black; padding:5px 10px; border-radius:5px;">JavaScript</span> 
+  <span style="background-color:#61dbfb; color:black; padding:5px 10px; border-radius:5px;">React</span>
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/> <small>**Python**</small> |
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="30"/> <small>**Django**</small> |
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" height="30"/> <small>**MySQL**</small> |
-  <img src="https://img.icons8.com/ios-filled/50/000000/sqlite.png" alt="SQLite" height="30"/> <small>**SQLite**</small>
+  <span style="background-color:#3776AB; color:white; padding:5px 10px; border-radius:5px;">Python</span> 
+  <span style="background-color:#092E20; color:white; padding:5px 10px; border-radius:5px;">Django</span> 
+  <span style="background-color:#00758F; color:white; padding:5px 10px; border-radius:5px;">MySQL</span> 
+  <span style="background-color:#003B57; color:white; padding:5px 10px; border-radius:5px;">SQLite</span>
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="30"/> <small>**MongoDB**</small> |
-  <img src="https://img.icons8.com/ios/50/000000/security-checked.png" alt="Cybersecurity" height="30"/> <small>**Ciberseguridad**</small>
+  <span style="background-color:#47A248; color:white; padding:5px 10px; border-radius:5px;">MongoDB</span> 
+  <span style="background-color:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Ciberseguridad</span>
 </p>
+
 
 
 ## 📂 Featured Projects
